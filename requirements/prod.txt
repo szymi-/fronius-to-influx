@@ -1,0 +1,4 @@
+astral==1.10.1
+influxdb==5.2.3
+pytz==2019.3
+requests==2.22.0
