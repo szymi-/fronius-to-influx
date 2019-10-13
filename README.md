@@ -1,5 +1,5 @@
 # fronius-to-influx
-Collect Fronius inverter data and save in Influxdb for Grafana. This tool collects the most basic Fronius inverter data and sends it to Influxdb for use with Grafana.
+Collect Fronius inverter data and save in Influxdb for Grafana. This tool collects the most basic Fronius inverter data for a most basic fotovoltaic setup. If your installation is more sophisticated, then probably some extra work will be reqired. 
 
 # install reqirements
 To install requirements:
@@ -27,9 +27,13 @@ To run mock fronius server:
     flask run
 
 # run "development" environment
-
 For development, I used this Grafana + Influx Docker image: https://hub.docker.com/r/philhawthorne/docker-influxdb-grafana/
 
 Edit the `dev.py` file and adjust accordingly. Then run:
 
     python src/dev.py
+
+# grafana dashboards
+I put my dashboards in `grafana_dashboards` directory. Feel free to use them.
+
+![Screenshot](img/screenshot.png?raw=true "Screenshot")

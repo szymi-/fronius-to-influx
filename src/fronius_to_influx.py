@@ -148,4 +148,4 @@ class FroniusToInflux:
                     print("Exception: {}".format(e))
 
         except KeyboardInterrupt:
-            print("Finishing. Goodbye!", end="\r")
+            print("Finishing. Goodbye!")
