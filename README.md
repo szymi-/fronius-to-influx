@@ -14,7 +14,7 @@ To install requirements:
     pip install -r requirements.txt
 
 # run "production" environment
-To run this tool with real inverter data, first copy the `src/dev.py` file to `src/prod.py` and adjust configuration (IP addresses, port numbers, user names and passwords):
+To run this tool with real inverter data, first copy the `src/dev.py` file to `src/prod.py` and adjust configuration (IP addresses, port numbers, user names and passwords, list of endpoints):
 
     vim src/prod.py 
 
