@@ -46,3 +46,4 @@ I put my dashboards in `grafana_dashboards` directory. Feel free to use them.
 ![Screenshot](img/screenshot.png?raw=true "Screenshot")
 ![Screenshot2](img/screenshot2.png?raw=true "Screenshot2")
 ![Screenshot3](img/screenshot3.png?raw=true "Screenshot3")
+![Screenshot4](img/screenshot4.png?raw=true "Screenshot4")
