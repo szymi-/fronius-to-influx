@@ -469,7 +469,7 @@
       },
       "yaxes": [
         {
-          "format": "amp",
+          "format": "volt",
           "label": null,
           "logBase": 1,
           "max": null,
@@ -587,7 +587,7 @@
       },
       "yaxes": [
         {
-          "format": "amp",
+          "format": "volt",
           "label": null,
           "logBase": 1,
           "max": null,
@@ -705,7 +705,7 @@
       },
       "yaxes": [
         {
-          "format": "amp",
+          "format": "volt",
           "label": null,
           "logBase": 1,
           "max": null,
